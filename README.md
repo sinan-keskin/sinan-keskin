@@ -45,7 +45,6 @@ h6 > a.anchor {
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" title="JavaScript"/>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" title="Node.js"/>
   <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="70" title="React"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg" width="70" style="filter: invert(1);" title="OpenAI"/>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" title="Docker"/>
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="70" title="PostgreSQL"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="VS Code"/>
