@@ -37,54 +37,20 @@ h6 > a.anchor {
 
 ---
 
-<!-- anchors gizle -->
-<style>
-h1 > a.anchor, h2 > a.anchor, h3 > a.anchor, h4 > a.anchor, h5 > a.anchor, h6 > a.anchor { display:none !important; }
-/* tech stack stilleri */
-.tech-row { display:flex; gap:18px; justify-content:center; align-items:center; flex-wrap:wrap; }
-.tech-row img { width:60px; height:60px; object-fit:contain; transition:transform .18s ease; }
-.tech-row img:hover { transform:translateY(-4px) scale(1.06); }
-</style>
-
 ### 🛠️ Tech Stack
 
-<div class="tech-row">
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-       alt="Node.js" title="Node.js" />
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" title="Node.js" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" title="React" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg" width="60" height="60" alt="OpenAI" title="OpenAI" style="margin: 10px; filter: invert(1);"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" title="Docker" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" title="PostgreSQL" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" style="margin: 10px;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" style="margin: 10px;"></a>
+</p>
 
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-       alt="JavaScript" title="JavaScript" />
-
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" title="Python" />
-
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-       alt="React" title="React" />
-
-  <!-- OpenAI (beyaz/kontrast) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg"
-       alt="OpenAI" title="OpenAI" style="filter: invert(1);" />
-
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-       alt="Docker" title="Docker" />
-
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-       alt="PostgreSQL" title="PostgreSQL" />
-
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-       alt="VS Code" title="VS Code" />
-
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git" title="Git" />
-</div>
 
 
 ---
