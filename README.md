@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sinan-keskin&theme=radical&cache_seconds=1800" height="180" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=sinan-keskin&theme=radical" height="180" alt="Streak Stats">
 </p>
 
 ---
