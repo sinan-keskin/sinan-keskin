@@ -1,17 +1,3 @@
-<!-- ⚡ sinan-keskin: Animated & Anchor-Free GitHub Profile README ⚡ -->
-
-<!-- 🧩 Anchor simgelerini gizleme -->
-<style>
-h1 > a.anchor, 
-h2 > a.anchor, 
-h3 > a.anchor, 
-h4 > a.anchor, 
-h5 > a.anchor, 
-h6 > a.anchor {
-  display: none !important;
-}
-</style>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60">
   Hey there, I'm <a href="https://github.com/sinan-keskin">Sinan K.</a> 🚀
