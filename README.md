@@ -46,10 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinan-keskin&layout=compact&langs_count=8&theme=radical" height="180" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sinan-keskin&theme=radical" height="180" alt="Streak Stats">
-</p>
-
 ---
 
 <p><strong>⚡ Activity Graph</strong></p>
