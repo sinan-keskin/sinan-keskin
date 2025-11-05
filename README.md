@@ -37,19 +37,55 @@ h6 > a.anchor {
 
 ---
 
+<!-- anchors gizle -->
+<style>
+h1 > a.anchor, h2 > a.anchor, h3 > a.anchor, h4 > a.anchor, h5 > a.anchor, h6 > a.anchor { display:none !important; }
+/* tech stack stilleri */
+.tech-row { display:flex; gap:18px; justify-content:center; align-items:center; flex-wrap:wrap; }
+.tech-row img { width:60px; height:60px; object-fit:contain; transition:transform .18s ease; }
+.tech-row img:hover { transform:translateY(-4px) scale(1.06); }
+</style>
+
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="Python"/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" title="Java"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" title="JavaScript"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" title="Node.js"/>
-  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="70" title="React"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" title="Docker"/>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="70" title="PostgreSQL"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="VS Code"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70" title="Git"/>
-</p>
+<div class="tech-row">
+  <!-- Node.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+       alt="Node.js" title="Node.js" />
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       alt="JavaScript" title="JavaScript" />
+
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python" title="Python" />
+
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+       alt="React" title="React" />
+
+  <!-- OpenAI (beyaz/kontrast) -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg"
+       alt="OpenAI" title="OpenAI" style="filter: invert(1);" />
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+       alt="Docker" title="Docker" />
+
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       alt="PostgreSQL" title="PostgreSQL" />
+
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+       alt="VS Code" title="VS Code" />
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       alt="Git" title="Git" />
+</div>
+
 
 ---
 
