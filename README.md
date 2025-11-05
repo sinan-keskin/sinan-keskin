@@ -43,8 +43,8 @@
 <p align="left"><strong>📊 GitHub Stats</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinan-keskin&show_icons=true&theme=radical&cache_seconds=1800" height="180" alt="Stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinan-keskin&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" height="180" alt="Top Languages">
+  <img src="https://github-readme-stats-je3sfcq5v-sinan-keskins-projects.vercel.app/api?username=sinan-keskin&show_icons=true&theme=radical" height="180" alt="Stats">
+  <img src="https://github-readme-stats-je3sfcq5v-sinan-keskins-projects.vercel.app/api/top-langs/?username=sinan-keskin&layout=compact&langs_count=8&theme=radical" height="180" alt="Top Languages">
 </p>
 
 <p align="center">
