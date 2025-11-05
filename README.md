@@ -1,4 +1,4 @@
-<!-- 💫 sinan-keskin: Epic GitHub Profile README 💫 -->
+<!-- ⚡ sinan-keskin: Ultimate GitHub Profile README ⚡ -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60">
@@ -14,10 +14,10 @@
 
 ### 🧠 About Me
 
-- 🧩 Developer with passion for **Python**, **Java**, **Web**, and **AI**.  
-- ⚡ I build, break, fix, and optimize things — sometimes all at once!  
-- ☕ Caffeine-driven and bug-tolerant.  
-- 🎯 Always pushing my limits in code & creativity.  
+- 🧩 Developer passionate about **Python**, **Java**, **Web**, and **AI**.  
+- ⚡ Building things that make a difference (and break sometimes 😅).  
+- ☕ Runs on caffeine and curiosity.  
+- 🌍 Exploring backend systems, automation & cloud computing.  
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
@@ -33,8 +33,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>
 </p>
 
@@ -47,12 +49,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinan-keskin&show_icons=true&theme=radical&cache_seconds=600" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinan-keskin&layout=compact&theme=radical&langs_count=8&cache_seconds=600" height="180"/>
+  <!-- Mirror link + stable cache -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinan-keskin&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinan-keskin&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sinan-keskin&theme=radical&cache_seconds=600" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=sinan-keskin&theme=radical&cache_seconds=1800" height="180"/>
 </p>
 
 ---
@@ -60,7 +63,7 @@
 ### ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinan-keskin&theme=react-dark&cache_seconds=600" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinan-keskin&theme=react-dark&cache_seconds=1800" width="95%"/>
 </p>
 
 ---
