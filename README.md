@@ -37,14 +37,14 @@ h6 > a.anchor {
 
 ---
 
-<p><strong>🛠️ Tech Stack</strong></p>
+<p align="left"><strong>🛠️ Tech Stack</strong></p>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" title="Node.js" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" title="React" style="margin:10px;">
-  <!-- OpenAI: siyah logo, beyaz arka plan + padding ile görünür -->
+  <!-- OpenAI -->
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg" width="60" height="60" alt="OpenAI" title="OpenAI" style="margin:10px; background:#fff; border-radius:12px; padding:8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" title="Docker" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" title="PostgreSQL" style="margin:10px;">
@@ -54,14 +54,14 @@ h6 > a.anchor {
 
 ---
 
-<p><strong>📊 GitHub Stats</strong></p>
+<p align="left"><strong>📊 GitHub Stats</strong></p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinan-keskin&show_icons=true&theme=radical&cache_seconds=1800" height="180" alt="Stats">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinan-keskin&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" height="180" alt="Top Languages">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sinan-keskin&theme=radical&cache_seconds=1800" height="180" alt="Streak">
 </p>
 
