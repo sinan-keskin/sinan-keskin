@@ -48,14 +48,6 @@
 
 ---
 
-<p><strong>⚡ Activity Graph</strong></p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinan-keskin&theme=react-dark&cache_seconds=1800" width="95%" alt="Activity Graph"/>
-</p>
-
----
-
 <p><strong>🌍 Connect with Me</strong></p>
 
 <p align="center">
