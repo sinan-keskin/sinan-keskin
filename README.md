@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=27&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer+%7C+Code+Artist;☕+Coffee+is+my+Fuel;🚀+Always+Learning+and+Building;🔥+Welcome+to+my+GitHub+Universe!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=27&center=true&vCenter=true&width=700&lines=💻+Just+a+guy+who+loves+to+code;☕+Learning+and+experimenting+every+day;🚀+Building+small+things+that+work;🔥+Welcome+to+my+GitHub!" />
 </p>
 
 ---
